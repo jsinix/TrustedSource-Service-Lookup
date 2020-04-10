@@ -6,9 +6,10 @@ Script supports the ability to lookup Domain / URL categorize and helps to deter
 
 # Prerequisits
 
-Requests: ([Link](http://docs.python-requests.org/en/master/user/install/#install))
+Requests: ```pip install requests```
 
 BeautifulSoup: ```pip install beautifulsoup4```
+
 TQDM: ```pip install tqdm```
 
 # Usage:
@@ -16,3 +17,7 @@ TQDM: ```pip install tqdm```
 ```python trustedsource.py```
 
 <img width="620" alt="screen shot 2018-06-20 at 14 37 10" src="https://raw.githubusercontent.com/jsinix/TrustedSource-Service-Lookup/master/usage.png">
+
+<img width="620" alt="screen shot 2018-06-20 at 14 37 10" src="https://raw.githubusercontent.com/jsinix/TrustedSource-Service-Lookup/master/progress_bar.png">
+
+
