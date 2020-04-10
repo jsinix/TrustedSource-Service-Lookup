@@ -1,8 +1,6 @@
 # McAfee TrustedSource Service Lookup
 
-Script supports the ability to lookup Domain / URL categorize and helps to determin the risk level.
-
-"McAfee® provides an online tool that enables you to check if a site is categorized within various versions of the SmartFilter Internet Database or the Webwasher URL Filter Database." https://trustedsource.org/sources/index.pl
+Script supports the ability to lookup Domain / URL categorize and helps to determin the risk level. This is a forked version to add support for querying multiple domain names from a file, multiprocessing, saving the results in a csv and a progress bar. 
 
 # Prerequisits
 
